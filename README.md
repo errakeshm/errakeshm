@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Rakesh
+- 👀 Professionally a Java developer but I have interests in Front end development as well.
+- 🌱 In my free time, I like to do quirky things with java and javascript, solve SQL Puzzles
+- 🌱 I’m currently learning Angular, Spring, Devops
+- 📫 My Front-end journey started with [Cummins](https://prodreg.cummins.com/prodreg/index.html), since then I have been hooked with Web Development.
+- ✨ Mostly these repositories are for self learning.
