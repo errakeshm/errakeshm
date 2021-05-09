@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rakesh, a Java developer. 
-- 👀 I am interested in Web Application Development. My Front-end journey started with [Cummins](https://prodreg.cummins.com/prodreg/index.html), since then I have been hooked.
+- 👀 I am interested in Web Application Development.
 - 🌱 In my free time, I like to do quirky things with java and javascript, solve SQL Puzzles
 - 🌱 I’m currently learning Angular, Spring, Devops.
 - ✨ Mostly these repositories are for self learning.
